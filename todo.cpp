@@ -118,7 +118,7 @@ public:
 };
 
 int main() {
-    // Настройка кодировки для корректного отображения кириллицы
+    
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
 
